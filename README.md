@@ -21,4 +21,4 @@ ___________________
 
 We code an Artificially Inteligent agent to search for a trip back to Dallas from Seattle, having access to a
 road map which should be implemented as a graph. We use the aima code (https://github.com/aimacode/aima-python) to find the solution
-and return a simulation of the RBFS strategy and A* Search solution.
+and return a simulation of the RBFS strategy and A* Search solution, while verifying the heuristics.
