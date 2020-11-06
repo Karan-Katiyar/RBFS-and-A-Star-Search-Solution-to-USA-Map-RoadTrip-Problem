@@ -5,16 +5,16 @@ Searching for Road Trips in the U.S.A. Considering the following table:
 
 Table of direct/flight distances to Dallas (in miles).
 ___________________
-1. Austin 182
-2. Charlotte 929
-3. San Francisco 1230
-4. Los Angeles 1100
-5. New York 1368
-6. Chicago 800
-7. Seattle 1670
-8. Santa Fe 560
-9. Bakersville 1282
-10. Boston 1551
+1. Austin -- 182
+2. Charlotte -- 929
+3. San Francisco -- 1230
+4. Los Angeles -- 1100
+5. New York -- 1368
+6. Chicago -- 800
+7. Seattle -- 1670
+8. Santa Fe -- 560
+9. Bakersville -- 1282
+10. Boston -- 1551
 ___________________
 
 ## Solution
